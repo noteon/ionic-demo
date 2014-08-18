@@ -6870,7 +6870,7 @@ IonicModule.constant('$ionicNavViewConfig', {
  * more info. Below is a great video by the AngularUI Router guys that may help to explain
  * how it all works:
  *
- * <iframe width="560" height="315" src="//www.youtube.com/embed/dqJRoh8MnBo"
+ * <iframe width="560" height="315" src="/www.youtube.com/embed/dqJRoh8MnBo"
  * frameborder="0" allowfullscreen></iframe>
  *
  * @param {string=} name A view name. The name should be unique amongst the other views in the
